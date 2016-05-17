@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 May 2016 08:07:52 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>3 tips to build your Ecommerce site with a web agency</title>
+		<link>https://www.prestashop.com/blog/en/3-tips-build-ecommerce-site-web-agency/</link>
+		<comments>https://www.prestashop.com/blog/en/3-tips-build-ecommerce-site-web-agency/#comments</comments>
+		<pubDate>Tue, 17 May 2016 08:07:52 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21671</guid>
+		<description><![CDATA[<p>Working with a web agency can be a great way to benefit from expert skills to build a beautifully, high performing online business. But it can also be a source of stress if you don’t know exactly what to tell the agency team. Today, Armando Salvador, Project and Training Manager at Ecomm360, shares his advice [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-tips-build-ecommerce-site-web-agency/">3 tips to build your Ecommerce site with a web agency</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Working with a web agency can be a great way to benefit from expert skills to build a beautifully, high performing online business. But it can also be a source of stress if you don’t know exactly what to tell the agency team. Today, Armando Salvador, Project and Training Manager at Ecomm360, shares his advice on how to communicate with your agency to get the most out of your investment.<br />
+<span id="more-21671"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/IjCDoA25Un0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&#038;utm_medium=article&#038;utm_campaign=Youtube-launch&#038;utm_content=ecomm360" target="_blank"><i class="fa fa-youtube-play"></i> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-tips-build-ecommerce-site-web-agency/">3 tips to build your Ecommerce site with a web agency</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/3-tips-build-ecommerce-site-web-agency/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 easy tips for migrating an online store</title>
+		<link>https://www.prestashop.com/blog/en/5-easy-tips-migrating-online-store/</link>
+		<comments>https://www.prestashop.com/blog/en/5-easy-tips-migrating-online-store/#comments</comments>
+		<pubDate>Thu, 12 May 2016 13:30:50 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21606</guid>
+		<description><![CDATA[<p>Today we welcome Taras Kopchak, Marketing Manager at Cart2Cart, who has some tips to make migrating your online store easy and secure. 1. Find the right time Analyze your store statistics and pick the time with the lowest traffic. This will help to avoid revenue loss and possible inconveniences for your customers, especially if you [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-easy-tips-migrating-online-store/">5 easy tips for migrating an online store</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Today we welcome Taras Kopchak, Marketing Manager at <a href="https://www.prestashop.com/en/industry-partners/management/cart2cart">Cart2Cart</a>, who has some tips to make migrating your online store easy and secure.<br />
+<span id="more-21606"></span> </p>
+<h2 style="color:#88B854;">1. Find the right time</h2>
+<p>Analyze your store statistics and pick the time with the lowest traffic. This will help to avoid revenue loss and possible inconveniences for your customers, especially if you plan to set the store to maintenance mode during the migration procedure. For most stores, traffic usually drops on the weekends and increases in the middle of the week. However, it often depends on the products and services you sell, so be sure to verify this via Google Analytics.</p>
+<h2 style="color:#88B854;">2. Make a backup</h2>
+<p>Make a backup to ensure your data is safe in case of any unforeseen circumstances. This is especially important if you’re manually migrating a store. However, even if you automate the migration process with services like <a href="https://www.prestashop.com/en/industry-partners/management/cart2cart">Cart2Cart</a>, where the data is simply copied and left untouched, it’s still recommended to backup your information before performing any serious manipulations within your online shop. You can either use such tools as phpMyAdmin, a backup option from your hosting provider, or the one integrated into your current store back office. </p>
+<h2 style="color:#88B854;">3. Prepare a SEO strategy</h2>
+<p>Many stores experience a temporary drop in organic traffic following their migration. This is usually the result of lost meta information and changes in URLs. Prepare your post-migration SEO strategy to minimize these temporary effects. </p>
+<p>Even though services like <a href="https://www.prestashop.com/en/industry-partners/management/cart2cart">Cart2Cart</a> allow you to migrate SEO URLs within most shopping carts, sometimes keeping your old URLs is simply not possible. If this is the case, we recommended setting redirects from your old store URLs to the new ones, so that users can access your new store using old links effortlessly. In doing so, you create 301 redirects, which will help you to preserve your current search engine rankings. Otherwise, in their next website crawl, Google’s spiders will encounter countless 404 pages leading to a negative traffic. (This issue resolves on its own if left alone; however, by being proactive, you prevent any major dips in your onsite traffic.)</p>
+<h2 style="color:#88B854;">4. Enable Maintenance mode</h2>
+<p><em>(Recommended but not necessary)</em><br />
+To ensure data is transferred accurately without a single hiccup, you’ll most likely want to set your original store to maintenance mode during the migration. By doing so, you’ll ensure nothing impacts the process of data transfer, while letting visitors know you are overhauling your site. However, if using <a href="https://www.prestashop.com/en/industry-partners/management/cart2cart">Cart2Cart</a>, there&#8217;s a possibility to keep your store live for customers without being worried anything goes wrong. Since automated migration does not affect the performance of your current store, you may continue running the business without a hiccup throughout whole migration procedure. No downtime! </p>
+<h2 style="color:#88B854;">5. Test your shop</h2>
+<p>Your newly migrated store will definitely require some fine tuning after the data transfer, so you’ll most likely continue to sell using your old shop for a while. Naturally, in this case you’ll receive new entities after or during the migration, such as new orders or customers. If you used a service like <a href="https://www.prestashop.com/en/industry-partners/management/cart2cart">Cart2Cart</a>, you can migrate those entities by using Recent Data Migration additional service that permits to transfer new data added after the initial data transfer only. It costs 50% of a standard migration price and can be launched multiple times whenever needed.</p>
+<h2 style="color:#88B854;">Bottom Line</h2>
+<p>Shopping cart migration is always a tough challenge that requires a complex and thought-out approach. Even though data the transfer itself can be significantly simplified with the help of automated services as <a href="https://www.prestashop.com/en/industry-partners/management/cart2cart">Cart2Cart</a>, re-platforming doesn&#8217;t end with the last entity migrated. The qualitative switch needs to be preceded and followed by select tasks aimed at setting and tuning every detail of your new online store, as it should be. Good luck!</p>
+<h2 style="color:#88B854;">eCommerce platform migration estimate</h2>
+<p>If you’re ready to start migrating your online store to the latest version of PrestaShop, check out this price estimator. It’s a great tools to help you decide if you’ll migrate manually or with an automated service: </p>
+<link rel="stylesheet" href="https://app.shopping-cart-migration.com/libs/estimator/style.css" />
+<div id="estimator"></div>
+<p><script async>
+      var script = document.createElement("script");
+      script.type  = "text/javascript";
+      script.id    = "estimator-js";
+      script.src   = "https://app.shopping-cart-migration.com/libs/estimator/script.js";
+      script.async = true;
+      script.setAttribute("requiredTargetIds", "PrestaShop,PrestaShopCloud");
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(script, s);
+</script></p>
+<p><a href="https://www.prestashop.com/en/industry-partners/management/cart2cart">Cart2Cart</a> is a leading automated shopping cart migration service with over 6 years of market experience and thousands of migrations and happy customers under its belt. The service supports 65+ eCommerce platforms, and permits users to move products, customers, orders and additional data within a few hours.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-easy-tips-migrating-online-store/">5 easy tips for migrating an online store</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/5-easy-tips-migrating-online-store/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Should you sell on marketplaces?</title>
+		<link>https://www.prestashop.com/blog/en/sell-marketplaces/</link>
+		<comments>https://www.prestashop.com/blog/en/sell-marketplaces/#comments</comments>
+		<pubDate>Wed, 11 May 2016 07:41:50 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21661</guid>
+		<description><![CDATA[<p>The answer to today’s question varies. Some people feel that marketplace commissions are prohibitively high. Others have seen their sales greatly increase through marketplaces and wouldn’t dream of going back. While some professionals and agencies take a stance for or against the use of marketplaces, online communities abstain from making general recommendations because each case [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/sell-marketplaces/">Should you sell on marketplaces?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The answer to today’s question varies. Some people feel that marketplace commissions are prohibitively high. Others have seen their sales greatly increase through marketplaces and wouldn’t dream of going back.</p>
+<p>While some professionals and agencies take a stance for or against the use of marketplaces, online communities abstain from making general recommendations because each case differs—and with it the relative merit.<br />
+<span id="more-21661"></span></p>
+<h2 style="color:#251b5a">What about commissions?</h2>
+<p>Commissions are what oil the machine. Marketplace commissions can reach levels that may seem scandalously high, but let’s delve further into the question before making a judgement.</p>
+<p>Advertising campaigns and price comparison sites rely on the services of true professionals, whose job is to help you reach your targets and achieve a suitable return on your investment. Professional services come at a price. Sellers who do this work themselves often end up operating at a loss.</p>
+<p>So you start to ask yourself how you can sell your goods without advancing this kind of money. And that is when you understand that marketplaces are there to cover these costs—but will recover them through commissions.</p>
+<h2 style="color:#251b5a">Is it worth cutting into your profits?</h2>
+<p>Once the commission is taken, you sometimes—maybe often—find yourself making zero profit.  You can’t have everything! Sure, you’re just breaking even, but you’re also not spending any money to get to the customer in the first place.</p>
+<p>By using a marketplace, you gradually build your portfolio of customers, at no cost. And that is the greatest, even the sole, advantage of using its services.</p>
+<p>A marketplace lets you sell your wares without shelling out to bring in customers, and this increases your volumes. That means business growth.</p>
+<h2 style="color:#251b5a">Are customer evaluations a pro or a con?</h2>
+<p>Marketplaces assess the overall performance of their sellers and rate them accordingly, relying partly on customer evaluations to do so.  When your ratings soar, your sales follow. So you have to see evaluations as motivators that will help accelerate the growth of your business.</p>
+<h2 style="color:#251b5a">What other benefits can you expect to reap?</h2>
+<p>Once you’ve taken the plunge, made your first sales, mastered the routine, and had your first positive feedback, you can move beyond the hypothetical and actually grow your business.</p>
+<p>Use the marketplace’s indicators. They are marketing tools to further accelerate your sales. It is in your interest to let customers know that you are an eBay Power Seller or that your average seller rating on Amazon is 4.3/5.</p>
+<p>Furthermore, the fact that you are a professional vendor reassures potential customers. They will also understand that they can save money by buying directly from you, on your site.</p>
+<h2 style="color:#251b5a">How do you build customer loyalty?</h2>
+<p>Marketplace customers are fickle. Your job is to make sure they remember their purchase.</p>
+<p>Parcel preparation is one way to do this: add a “gift voucher” (essentially a discount code) and a branded gift, like a sticker, mouse pad, lighter, or pen). Your choices can reflect the items purchased. You should not provide the URL of your online store if this would violate the terms of the marketplace.</p>
+<p>Take full advantage of the parcel as a marketing medium: add your shop logo to the delivery label and paper invoice, and insert a flyer. </p>
+<p>The customer loyalty you build on marketplaces will boost your sales on your own site.</p>
+<h2 style="color:#251b5a">The big picture</h2>
+<p>By expanding your presence on marketplaces, your sales increase. And you can sell to customers abroad without the need to invest there.</p>
+<p>This brings us to the earlier point that growth brings you more customers and builds loyalty, which you may then capitalize on.</p>
+<p>To sum up, marketplace sales accelerate your business without risky investments on your part. </p>
+<h4 style="color:#251b5a">About Common-Services</h4>
+<p>In 2010, I drew on what I had learned as an online merchant between 2005 and 2008 to create Common-Services, which aims to develop simple tools for online sellers. I understood their needs from personal experience, and this helped us develop the right solutions for the most frequent problems. Our product ranges include logistics tools as well as modules for management of marketplace flows, including Amazon Marketplace for PrestaShop.  </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/sell-marketplaces/">Should you sell on marketplaces?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/sell-marketplaces/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>E-commerce success story: How Tealer conquered a unique Tshirt market</title>
+		<link>https://www.prestashop.com/blog/en/e-commerce-success-story-tealer-conquered-unique-tshirt-market/</link>
+		<comments>https://www.prestashop.com/blog/en/e-commerce-success-story-tealer-conquered-unique-tshirt-market/#comments</comments>
+		<pubDate>Tue, 10 May 2016 07:55:27 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21639</guid>
+		<description><![CDATA[<p>Tealer is a French streetwear-inspired clothing brand. The company started out with a brick-and-mortar store and added an online component in 2012 with PrestaShop. Today, the site represents half of the company’s turnover, and has been growing each year for the last 3 years. In 2015 alone, they recorded 15,000 new customers! Listen to founder [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/e-commerce-success-story-tealer-conquered-unique-tshirt-market/">E-commerce success story: How Tealer conquered a unique Tshirt market</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.tealer.fr/en/" target="_blank">Tealer</a> is a French streetwear-inspired clothing brand. The company started out with a brick-and-mortar store and added an online component in 2012 with PrestaShop. Today, the site represents half of the company’s turnover, and has been growing each year for the last 3 years. In 2015 alone, they recorded 15,000 new customers!</p>
+<p>Listen to founder Alex, and to Community Manager Popsy, explain how he grew this family company using PrestaShop’s open source ecommerce software and a few marketing best practices.<br />
+<span id="more-21639"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/C5r61UcpW9M?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f; border: 1px solid #b31217; border-bottom: 3px solid #b31217; margin: 20px 0 0; color: #fff;" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch&amp;utm_content=tealer" target="_blank"><i class="fa fa-youtube-play"></i> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/e-commerce-success-story-tealer-conquered-unique-tshirt-market/">E-commerce success story: How Tealer conquered a unique Tshirt market</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/e-commerce-success-story-tealer-conquered-unique-tshirt-market/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interview with Lawrence Rosen, author of the Open Software License</title>
+		<link>https://www.prestashop.com/blog/en/interview-lawrence-rosen-author-open-software-licence/</link>
+		<comments>https://www.prestashop.com/blog/en/interview-lawrence-rosen-author-open-software-licence/#comments</comments>
+		<pubDate>Thu, 05 May 2016 13:30:29 +0000</pubDate>
+		<dc:creator><![CDATA[Xavier Borderie]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21585</guid>
+		<description><![CDATA[<p>Open Source is written into the very DNA of PrestaShop: the source code of your favorite e-commerce solution is distributed under the Open Software License (and the Academic Free License), which allows PrestaShop’s source code to be used, modified and shared under defined terms and conditions. Attorney and computer specialist Lawrence Rosen is the author [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/interview-lawrence-rosen-author-open-software-licence/">Interview with Lawrence Rosen, author of the Open Software License</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Open Source is written into the very DNA of PrestaShop: the source code of your favorite e-commerce solution is distributed under the Open Software License (and the Academic Free License), which allows PrestaShop’s source code to be used, modified and shared under defined terms and conditions.</p>
+<p>Attorney and computer specialist Lawrence Rosen is the author of the licenses used by PrestaShop. We had the privilege of asking a few questions. Here’s what he had to say&#8230;:<br />
+<span id="more-21585"></span><br />
+<strong>Considering the number of licenses already available when you created the OSL and AFL licenses, could you give us your rationale for their creation? </strong></p>
+<p>I wanted to write a license (OSL) that provided the strength of the GPLv2 with clearer language and a better definition of &#8220;derivative works.&#8221; I also wanted to create an academic license (AFL) with the strength of the Apache License with the exact same language as the OSL. I hoped this would make it easier for the public to understand how open source licenses work.</p>
+<p><strong>According to <a href="http://en.wikipedia.org/wiki/Open_Software_License#Key_features" target="_blank">its Wikipedia article</a>, one of the OSL’s most unique characteristics is its patent action termination clause, intended to dissuade users from filing patent infringement lawsuits. Would you say that this is the main interest of using the OSL?</strong></p>
+<p>I don&#8217;t believe that the patent provisions are unique in effect. During the drafting of the OSL/AFL licenses, there were lots of discussions about how to craft an enforceable and meaningful patent grant and patent termination provision. Now many other open source licenses follow the same OSL/AFL pattern with different lawyer-chosen words.</p>
+<p><strong>In <a href="http://rosenlaw.com/OSL3.0-explained.htm">your article about OSL 3.0</a>, <strong>in reference to forcing the disclosure of the source code</strong>, you write that &#8220;This ambiguity of the GPL is eliminated from OSL 3.0&#8243;, which would explain why you see the OSL as superior to the GPL.<br />
+Using GPL code makes some developers/companies nervous because of its &#8220;contamination&#8221; effect. Would you say the OSL is less &#8220;contaminating&#8221; than the GPL is?</strong></p>
+<p>There is a long-term, widespread community argument about the reach of the GPL licenses to works that are independently written but aggregated (through some form of linking) to GPL code. Words like &#8220;contaminating&#8221; and &#8220;viral&#8221; and &#8220;infectious&#8221; are tossed into those discussions without clear definitions. As a result, some companies remain hesitant about using certain GPL software. That is a shame; much free GPL software is very good.</p>
+<p>I hope for a court decision someday that will remove that GPL confusion.</p>
+<p>The OSL/AFL licenses intend to eliminate such confusion. These licenses do not affect independently written code at all, no matter how aggregated.</p>
+<p><strong>Unlike the OSL license, the AFL license mentions that derivative works can use any other license that does not contradict its terms and conditions. Could you name some of these licenses?</strong></p>
+<p>Apache License, GPL licenses, MPL, EPL, etc., etc. The AFL license is very permissive.</p>
+<p><strong>A few projects have moved away from OSL in recent years: ClearCanvas <a href="http://clearcanvas.ca/Home/Community/OldForums/tabid/526/aff/8/aft/16278/afv/topic/Default.aspx" target="_blank">moved to the GPL in 2013</a>; CodeIgniter <a href="https://hakre.wordpress.com/2011/10/27/codeigniter-goes-copyleft-with-osl/" target="_blank">moved from a BSD-like license to OSL 3.0 in 2011</a>, then <a href="http://forum.codeigniter.com/thread-40.html" target="_blank">switched to MIT in 2014</a>; Mulgara still uses the OSL, but they require new code to be contributed using the Apache 2.0 license <a href="http://code.mulgara.org/projects/mulgara/wiki/License" target="_blank">in order to eventually move to that license</a>; Sparse <a href="http://www.spinics.net/lists/linux-sparse/msg03322.html" target="_blank">moved to the MIT license in 2013</a>.<br />
+While their reasons to move away from OSL are varied, most seem to move away from it in order to have more user contributions. Would you say it is a misunderstanding on their part?</strong></p>
+<p>I can&#8217;t remotely judge the decisions that open source projects make about licenses. Nor do I feel compelled to push the OSL over other good licenses. I will say that BSD and MIT licenses are weak. They miss many provisions about patents and other important intellectual property issues. Why people keep using those licenses is a mystery. On the other hand, these licenses are compatible with each other for aggregations, so the world will have more open source software regardless of which licenses are chosen.</p>
+<p><strong>Drupal uses the GPL, and made it clear that plugins/modules and themes are derivative works of the core software, and that its PHP code must therefore be released under the GPL too (cf. <a href="https://www.drupal.org/licensing/faq/#q7" target="_blank">Drupal policy</a>). Would you say that OSL-using projects should work the same way?</strong></p>
+<p>Absolutely not. &#8220;Plugins/modules&#8221; and &#8220;themes&#8221; are not proper examples of &#8220;derivative works.&#8221; I am waiting for a court to rule that way someday and quiet this GPL-induced confusion. In the meantime, an OSL project doesn&#8217;t have that problem.</p>
+<p><strong>PrestaShop is distributed under the OSL 3.0 license, and chose to have its native modules licensed under the AFL 3.0 (<a href="https://www.prestashop.com/blog/en/for_greater_clarity_prestashop_is_updating_its_licenses/">see blogpost</a>). Would you say this is the correct way to go?</strong></p>
+<p>That sounds reasonable but I can&#8217;t remotely judge other&#8217;s technical and licensing decisions. It wouldn&#8217;t be fair of me even though I&#8217;m grateful that OSL and AFL were chosen.</p>
+<p><strong>The GNU project/FSF has <a href="http://www.gnu.org/licenses/license-list.en.html#OSL" target="_blank">a critical view of the OSL</a>, writing that &#8220;distributing OSL software on ordinary FTP sites, sending patches to ordinary mailing lists, or storing the software in an ordinary version control system, is arguably a violation of the license&#8221;. How would you respond to such claim?</strong></p>
+<p>Copies or derivative works of an OSL work must also be distributed under the OSL. The definition of distribution in the OSL includes the things mentioned by FSF. The strange thing is that the exact same rules would apply to GPL software. What are they complaining about?</p>
+<p><img class="alignleft size-full wp-image-21587" alt="LER3" src="https://www.prestashop.com/blog/en/files/2016/05/LER3.jpg" width="150" /> Biography: Lawrence Rosen is both an attorney and a computer specialist. He is founding partner of Rosenlaw &amp; Einschlag, a technology law firm that specializes in intellectual property protection, licensing and business transactions for technology companies. In addition to this law practice, Larry also served for many years as general counsel of the non-profit Open Source Initiative (OSI). He currently advises many open source companies and non-profit open source projects, including as member of the Apache Software Foundation and the Open Web Foundation. Larry&#8217;s book, <em>Open Source Licensing: Software Freedom and Intellectual Property Law</em>, was published by Prentice Hall in 2004. He also taught Open Source Law at Stanford Law School. Larry often publishes and speaks around the world on open source and intellectual property issues.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/interview-lawrence-rosen-author-open-software-licence/">Interview with Lawrence Rosen, author of the Open Software License</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/interview-lawrence-rosen-author-open-software-licence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to use UGC to improve customer experience</title>
+		<link>https://www.prestashop.com/blog/en/use-ugc-improve-customer-experience/</link>
+		<comments>https://www.prestashop.com/blog/en/use-ugc-improve-customer-experience/#comments</comments>
+		<pubDate>Wed, 04 May 2016 13:30:11 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21566</guid>
+		<description><![CDATA[<p>UGC can be a real magnet for shoppers on your eCommerce site. There are different ways that you can incorporate UGC on your pages in order to cater to shoppers at different stages of their shopping journey. Let’s have a closer look of how UGC can be incorporated onto your online store. 1. Use UGC [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/use-ugc-improve-customer-experience/">How to use UGC to improve customer experience</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>UGC can be a real magnet for shoppers on your eCommerce site. There are different ways that you can incorporate UGC on your pages in order to cater to shoppers at different stages of their shopping journey. Let’s have a closer look of how UGC can be incorporated onto your online store.<br />
+<span id="more-21566"></span> </p>
+<h2 style="color:#e00f2f">1. Use UGC by influencers to create product awareness</h2>
+<p>Influencer marketing is gaining traction, as brands and online merchants seek new ways to attract attention to their businesses, using opinion leaders as a proxy for reaching out to new customers. The premise is simple &#8211; identify opinion leaders in your product category, get them to try your products and encourage them to share their experiences with their followers. To complete the circle, bring this content to your eCommerce site to let shoppers discover your products through the stories told by the influencers. </p>
+<p>This is exactly the strategy used by The Body Shop UK to increase awareness of its new skincare line, bringing UGC video reviews made by influential beauty bloggers straight to its eCommerce site. </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/04/Screen-Shot-2016-03-29-at-18.28.33.png" alt="Screen Shot 2016-03-29 at 18.28.33" width="1598" height="1228" class="alignright size-full wp-image-21570" /></p>
+<p>This approach works well when introducing new products as well as promoting best-selling staple items. It’s used by both large global brands and small online merchants </p>
+<h2 style="color:#e00f2f">2. Use review-type UGC to convert visitors actively looking to buy</h2>
+<p>When shoppers are actively weighing in on their options and considering following through on a purchase, the best way to give them a friendly nudge to convert is to provide content that promotes trust and alleviates buyer anxiety. Product reviews produce on average <a href="https://econsultancy.com/blog/9366-ecommerce-consumer-reviews-why-you-need-them-and-how-to-use-them/" target="_blank">an 18% increase in sales</a> and motivate 63% of shoppers to complete purchases. Paired with visual UGC, they stand as a powerful force to drive conversions on your product pages. </p>
+<p>Authentic UGC that showcases how a product has worked for other shoppers can help overcome uncertainty and convince shoppers to buy. Think about adding UGC review videos from YouTube or “before” and “after” photos from Instagram, like Benefit Cosmetics in the example below. </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/04/Screen-Shot-2016-03-29-at-18.35.06.png" alt="Screen Shot 2016-03-29 at 18.35.06" width="1340" height="1218" class="aligncenter size-full wp-image-21567" /></p>
+<p>You can also think “outside the box” and add unboxing videos or comparison videos made by knowledgeable fans to share truly unbiased views on the product and project your confidence in the product as a merchant. In the example below, European sporting goods merchant Sneaker 10 uses this strategy to helps shoppers visualize their purchases better. This makes the online shopping experience as real as possible, much like in physical retail.</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/04/Screen-Shot-2016-03-29-at-18.16.26.png" alt="Screen Shot 2016-03-29 at 18.16.26" width="1460" height="1202" class="aligncenter size-full wp-image-21568" /></p>
+<h2 style="color:#e00f2f">3. Use how-to UGC to help shoppers post-purchases</h2>
+<p>Truly amazing online shopping experiences take into account not only new visitors, but also those who return to your site for more information after purchasing. UGC can help here as well.</p>
+<p>Consumer-made tutorials and demos are very valuable for shoppers, especially when they come in video form. This type of UGC is easy to digest and helps shoppers overcome the fear of using the product incorrectly. Sites like YouTube are overflowing with UGC <a href="http://blog.goodvid.io/how-online-retailers-can-leverage-how-to-video-content/" target="_blank">how-to videos</a>, the demand for which grows <a href="https://www.thinkwithgoogle.com/articles/i-want-to-do-micro-moments.html" target="_blank">70%</a> year-on-year.</p>
+<p>For example, Tassimo UK’s eCommerce site uses UGC how-to demo videos to showcase how to correctly use the brand’s signature coffee machines and how consumers brew their delicious coffee drinks.</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/04/Screen-Shot-2016-03-29-at-18.22.19.png" alt="Screen Shot 2016-03-29 at 18.22.19" width="1450" height="1230" class="aligncenter size-full wp-image-21569" /></p>
+<p>This type of content serves as a memorable reference point for shoppers, prompting them to return to your site whenever they have questions. </p>
+<h4 style="color:#c52d3a">What to keep in mind when using UGC in eCommerce</h4>
+<p>Now that we convinced you that user-generated content can help improve customer experience throughout shopping journey, here are some practical tips to have in mind when you decide to bring UGC to your eCommerce pages. </p>
+<ul style="padding-left: 30px">
+<li><strong>Encourage shoppers to submit UGC.</strong> While there’s a ton of user-generated content on social media, it’s also important to let shoppers know that you are welcoming their own content submissions on your site. Make it easy and straightforward for customers to share with other their product reviews, photos and videos on your pages. This way you improve customer experience by opening the gates to communication and feedback with your shoppers and by showing a sincere interest in their satisfaction with the products.</li>
+<li><strong>Don’t just collect UGC, curate.</strong> With so much abundance of UGC, you might be tempted to channel as much content to your pages as possible. The trick, however, is not only to collect, but also make a hand-picked selection of UGC that appears on your site. You want only the best quality content that is aligned with your brand, in order to make a good impression on your visitors.</li>
+<li><strong>Give credit where needed.</strong> Content creators invest time and effort to make those cool user-generates photos and videos you’d like to use on your eCommerce site. So before you jump on the opportunity to add their content, make sure it’s okay with them. Different social media platforms might have different content policies, so just make sure to check your options beforehand.</li>
+<li><strong>Make sure content loads quickly and correctly.</strong> When it comes to customer experience in eCommerce, page load time can make or break customer satisfaction. You don’t want to compromise speed and accuracy for the advantage of having UGC on your pages. Make sure content loads fast and is displayed correctly on your site, including the mobile version of your online store.</li>
+<li><strong>Analyze what works.</strong> It’s not enough to just bring UGC to your eCommerce pages, you also need to know how it performs over time. Do user-generated videos have higher click-through rates than customer photos from Instagram? Do pages with UGC have higher conversion rates than pages without this content? Run tests and experiments to observe what works best for your site and what kind of UGC generates the best response in terms of engagement and sales for your shoppers.</li>
+</ul>
+<h2 style="color:#e00f2f">Conclusion</h2>
+<p>User-generated content can make customer experience on eCommerce sites more authentic, memorable and trustworthy. Share with your customers user-generated photos and videos they’ll enjoy watching and appreciate for helping them stay informed. Try new platforms that can help you streamline the process of discovering, curating, embedding and optimizing UGC on your pages. They’ll help you do UGC right and exceed customer expectations when it comes to online shopping.</p>
+<h4 style="color:#c52d3a">About the author</h4>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/04/miljana-mitic.png" alt="miljana-mitic" width="150" height="150" class="alignleft size-thumbnail wp-image-21560" /></p>
+<p>Miljana Mitic is the Content Marketing Manager at <a href="https://goodvid.io/" target="_blank">Goodvidio</a>, a SaaS solution that helps online stores bring the best product videos from social media to their product pages. Miljana has a PhD in social media marketing and writes about how online stores can make the most out of product videos. She loves discovering new restaurants, reading, playing with dogs and watching YouTube haul videos.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/use-ugc-improve-customer-experience/">How to use UGC to improve customer experience</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/use-ugc-improve-customer-experience/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Infographic] Your Mother&#8217;s Day eCommerce Guide</title>
+		<link>https://www.prestashop.com/blog/en/infographic-mothers-day-ecommerce-guide/</link>
+		<comments>https://www.prestashop.com/blog/en/infographic-mothers-day-ecommerce-guide/#comments</comments>
+		<pubDate>Wed, 04 May 2016 12:42:43 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21647</guid>
+		<description><![CDATA[<p>Mother’s Day is just around the corner, so businesses with gift-worthy products will be vying for the attention of customers that are ready to spend in the name of love. In 2015, Mother’s Day spending in the US reached an all-time high of $21.2B! And this is not a holiday to be missed…84% of people [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/infographic-mothers-day-ecommerce-guide/">[Infographic] Your Mother&#8217;s Day eCommerce Guide</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Mother’s Day is just around the corner, so businesses with gift-worthy products will be vying for the attention of customers that are ready to spend in the name of love. In 2015, Mother’s Day spending in the US reached an all-time high of $21.2B! And this is not a holiday to be missed…84% of people celebrate it.</p>
+<p><span id="more-21647"></span></p>
+<p>Many customers will be shopping online for mom last minute (or at least researching the best products to purchase). That means there will be a huge boost in sales leading right up to the holiday.</p>
+<p>Check out this infographic by <a href="http://www.theshelf.com/the-blog/mothers-day-infographic">The Shelf </a>to get the lowdown on how we show love for Mom…and how you can capitalize on the procrastinators that are willing to do what it takes to woo her!</p>
+<div style="clear: both"><a href="http://www.theshelf.com/the-blog/mothers-day-infographic"><img title="The Mother of All Mother's Day Infographics" alt="" src="https://s3.amazonaws.com/theshelf-email-marketing-images/blog_graphics/mothers-day-infographic/mothers-day-infographic-2016-the-shelf.jpg" border="0" /></a></div>
+<div>Courtesy of: <a style="text-decoration: underline;color: #11d3c8" href="http://www.theshelf.com/the-blog/mothers-day-infographic">The Shelf</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/infographic-mothers-day-ecommerce-guide/">[Infographic] Your Mother&#8217;s Day eCommerce Guide</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/infographic-mothers-day-ecommerce-guide/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>10 Tips for Choosing a Developer for Your Ecommerce Project</title>
+		<link>https://www.prestashop.com/blog/en/10-tips-choosing-developer-ecommerce-project/</link>
+		<comments>https://www.prestashop.com/blog/en/10-tips-choosing-developer-ecommerce-project/#comments</comments>
+		<pubDate>Tue, 03 May 2016 12:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21635</guid>
+		<description><![CDATA[<p>Finding a freelance developer to get your ecommerce project up and running can be a daunting task. In today’s video, we break the process down into 10 easy steps, from choosing a software platform to assessing a developer’s experience to checking site performance. By the end, you’ll be ready to move forward with your online [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/10-tips-choosing-developer-ecommerce-project/">10 Tips for Choosing a Developer for Your Ecommerce Project</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Finding a freelance developer to get your ecommerce project up and running can be a daunting task. In today’s video, we break the process down into 10 easy steps, from choosing a software platform to assessing a developer’s experience to checking site performance. By the end, you’ll be ready to move forward with your online business with confidence.<br />
+<span id="more-21635"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/pXuSXDVLby8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f; border: 1px solid #b31217; border-bottom: 3px solid #b31217; margin: 20px 0 0; color: #fff;" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch&amp;utm_content=prestashop" target="_blank"><i class="fa fa-youtube-play"></i> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/10-tips-choosing-developer-ecommerce-project/">10 Tips for Choosing a Developer for Your Ecommerce Project</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/10-tips-choosing-developer-ecommerce-project/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 Reasons why UGC is good for ecommerce</title>
+		<link>https://www.prestashop.com/blog/en/3-reasons-ugc-good-ecommerce/</link>
+		<comments>https://www.prestashop.com/blog/en/3-reasons-ugc-good-ecommerce/#comments</comments>
+		<pubDate>Thu, 28 Apr 2016 13:30:22 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21559</guid>
+		<description><![CDATA[<p>Why do people shop online? Mostly for convenience. But the novelty of being able to buy anything and everything from the comfort of their own homes has long worn off for many consumers. We are now looking for the innovative, the quirky, the original and really outstanding shopping experiences that are as good or better [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-reasons-ugc-good-ecommerce/">3 Reasons why UGC is good for ecommerce</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Why do people shop online? Mostly for convenience. But the novelty of being able to buy anything and everything from the comfort of their own homes has long worn off for many consumers. We are now looking for the innovative, the quirky, the original and really outstanding shopping experiences that are as good or better than the ones in physical retail.<br />
+<span id="more-21559"></span><br />
+According to <a href="http://www.businesswire.com/news/home/20120111005284/en/RightNow%E2%80%99s-Annual-Research-Shows-86-Percent-U.S." target="_blank">Customer Experience Impact Report</a>, 86% of consumers are willing to pay more for a better customer experience. When it comes to eCommerce, a good customer experience means at the very least, simple, speedy and reliable service, but a really great customer experience also means sharing authentic content that engages and inspires. So how do we make online shoppers feel special?</p>
+<p>User-generated content is one way. UGC comes in many forms, including customer testimonials users leave on your site, photos of products customers share on Instagram and video reviews they upload to YouTube. These are all fragments of the experience they have with your brand, products and website. Together, they speak louder than any carefully engineered marketing message and have the power to assure shoppers your store and products are worthy of their time and money.</p>
+<h4 style="color:#c52d3a">What makes user-generated content valuable for shoppers</h4>
+<p>UGC ties together powerful visuals with authentic customer stories that motivate visitors to engage with your site and give them a reason to stick around and explore what your online store has to offer. Here’s why shoppers love user-generated content:</p>
+<h2 style="color:#e00f2f">1. The authenticity of UGC promotes trust.</h2>
+<p>The genuine voice of the customer is what draws consumers to UGC; they seek validation from others that they’re about to make a good choice. This is why <a href="http://www.jeffbullas.com/2014/06/16/5-steps-to-boosting-website-traffic-with-user-generated-content/" target="_blank">59% of consumers trust UGC</a> more than brand-made or retailer-made marketing content. </p>
+<h2 style="color:#e00f2f">2. UGC gives social proof that inspires purchases.</h2>
+<p>When it comes to online shopping, seeing is believing. User-generated photos and videos reassure shoppers that the product presented on an online store is true to life. This kind of social proof acts as a powerful driver of purchase intent. UGC can improve conversion rates on eCommerce sites <a href="http://www.marketingsherpa.com/article/case-study/organic-search-up-10-conversion" target="_blank">up to 125%</a>. </p>
+<h2 style="color:#e00f2f">3. Visual UGC makes the online shopping experience richer.</h2>
+<p>Online shoppers are easily bored with bland eCommerce pages and unimaginative visuals. The appeal of UGC is in the originality of the content and the fresh perspective on the product. UGC can portray a product in a new light, which adds a new dimension and extra depth to the product pages. </p>
+<p>Despite this, according to a <a href="https://www.clickz.com/clickz/news/2412997/ugc-is-the-key-to-instagram-success-study" target="_blank">report by L2</a>, only about 9% of the top 250 consumer brands feature UGC on their product pages, despite the positive effect UGC has on conversion rates in various product verticals (UGC increases conversions rates by 1.7 for footwear, 1.6 times for consumer electronics and beauty). </p>
+<p>Are you taking advantage of user-generated content on your shop? If not, check out part 2 of this blog post where Miljana shares <a href="https://www.prestashop.com/blog/en/use-ugc-improve-customer-experience/">how you can use UGC to improve your shop’s customer experience</a>.</p>
+<h4 style="color:#c52d3a">About the author</h4>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/04/miljana-mitic.png" alt="miljana-mitic" width="150" height="150" class="alignleft size-thumbnail wp-image-21560" /><br />
+Miljana Mitic is the Content Marketing Manager at <a href="https://goodvid.io/" target="_blank">Goodvidio</a>, a SaaS solution that helps online stores bring the best product videos from social media to their product pages. Miljana has a PhD in social media marketing and writes about how online stores can make the most out of product videos. She loves discovering new restaurants, reading, playing with dogs and watching YouTube haul videos.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-reasons-ugc-good-ecommerce/">3 Reasons why UGC is good for ecommerce</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/3-reasons-ugc-good-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>How to Audit Your Own Blog Posts</title>
+		<link>https://www.prestashop.com/blog/en/audit-blog-posts/</link>
+		<comments>https://www.prestashop.com/blog/en/audit-blog-posts/#comments</comments>
+		<pubDate>Thu, 28 Apr 2016 11:30:53 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21527</guid>
+		<description><![CDATA[<p>We’ve all been trained to shudder at the mention of an “audit.” Whether it’s a government agency combing through your taxes, or a boss checking all the records in your workplace, audits are usually stressful and time-consuming. In reality, an audit is nothing more than a checkup to make sure everything is working the right [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/audit-blog-posts/">How to Audit Your Own Blog Posts</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We’ve all been trained to shudder at the mention of an “audit.” Whether it’s a government agency combing through your taxes, or a boss checking all the records in your workplace, audits are usually stressful and time-consuming.</p>
+<p><span id="more-21527"></span></p>
+<p>In reality, an audit is nothing more than a checkup to make sure everything is working the right way. If it’s not, then you expose the issues so you can fix them. Today, I’ll show you how to audit your blog posts in a simple but effective way. This will help you catch any <a href="https://www.prestashop.com/blog/en/4-simple-steps-to-optimize-your-online-shops-performance/">issues with optimization or site performance</a> and fix them immediately.</p>
+<h2>Auditing Your Blog: A Step-by-Step Guide</h2>
+<p>When I first decided to audit my blog, I didn’t know what I was doing. I went to Google, as countless others do, to search for answers. I came across <a href="https://www.quicksprout.com/2014/04/24/how-to-conduct-a-content-audit-on-your-site/" target="_blank">an amazing article from Neil Patel</a> that streamlined the process immensely. After running the audit and making some quick changes, I immediately noticed things moving in the right direction.</p>
+<p>Here’s my step-by-step guide on how to audit your Blog’s content to <a href="http://www.onblastblog.com/how-to-write-the-perfect-blog-post/" target="_blank">craft the perfect blog post</a>.</p>
+<h2>Step One: Make a Spreadsheet</h2>
+<p>You can use your program of choice for this, but I find that <a href="https://www.google.com/drive/" target="_blank">Google Drive</a> is the best place to create your spreadsheets. Once you’ve logged into your account, create a spreadsheet with the following columns:</p>
+<ul style="padding-left: 30px">
+<li>URL</li>
+<li>Date Audited</li>
+<li>Yoast Plugin</li>
+<li>Alt Tags</li>
+<li>Internal Links</li>
+</ul>
+<p>The final layout should look like this:</p>
+<p><img class="aligncenter size-full wp-image-21595" alt="auditbp2" src="https://www.prestashop.com/blog/en/files/2016/04/auditbp2.png" width="910" height="250" /></p>
+<p>This spreadsheet will help you keep everything organized and track your progress in case you need to come back and finish the audit at a later date. If you have more than one person working with you, this will also help you work together while keeping everything organized.</p>
+<h2>Step Two: Compile the URL List</h2>
+<p>Now that you’ve set up your spreadsheet, you need to place your page and post URLs into the sheet. An easy way to do this in WordPress is to head to the Posts/Pages list and select the published filter so it only lists live posts.</p>
+<p>From here you can right-click the edit option for each post and then select copy link address. Paste this into your spreadsheet for each post. These links will immediately take you into the edit screen for each respective post or page.</p>
+<p>The process looks like this:</p>
+<p><img class="aligncenter size-full wp-image-21597" alt="auditbp3" src="https://www.prestashop.com/blog/en/files/2016/04/auditbp3.jpg" width="837" height="646" /></p>
+<p>Once you’ve done this for your posts and pages, you’ll have quick and easy access to them in the WordPress dashboard so you can move forward with your audit.</p>
+<h2>Step Three: Check Your Page Permalink and Yoast Plugin</h2>
+<p>Click on the first link in your spreadsheet and dive into the edit screen. Let’s start at the top of the page with your permalink. This is everything after the domain in your URL.</p>
+<p><img class="aligncenter size-full wp-image-21537" alt="auditbp4" src="https://www.prestashop.com/blog/en/files/2016/04/auditbp4.jpg" width="541" height="133" /></p>
+<p>When looking at this, make sure these rules are all being obeyed:</p>
+<ul style="padding-left: 30px">
+<li>No more than 65 characters in length</li>
+<li>Unique and relevant to the page’s content</li>
+<li>Utilizes keywords</li>
+<li>Text only, no numbers or random strings.</li>
+</ul>
+<p>Keep in mind, if you change any of these on a live page, you’re going to break any and all links pointing toward the page/post. You’ll need to set up a 301 redirect if you make any changes. If you find a permalink you absolutely hate, you can mark it and come back later to change it and implement the 301.</p>
+<p>Once you’ve finished checking the permalink, scroll to the bottom of the page and check your Yoast Plugin. If you don’t have this plugin for WordPress, <a href="https://wordpress.org/plugins/wordpress-seo/" target="_blank">download it now</a>. This beautiful tool gives you everything you need to ensure that your content is optimized to the fullest potential.</p>
+<p>This is what the latest version of the plugin looks like:</p>
+<p><img class="aligncenter size-full wp-image-21598" alt="auditbp5" src="https://www.prestashop.com/blog/en/files/2016/04/auditbp5.jpg" width="1167" height="590" /></p>
+<p>As you can see, it allows you to put in your primary keyword. From here you can modify the page title and meta description with ease. Beneath this you’ll see a detailed analysis of the content. In this step, look at the page title and the description:</p>
+<ul style="padding-left: 30px">
+<li>The page title should be relevant and eye-catching with the keyword present inside it.</li>
+<li>The description should be written for readers, not Google’s bots. It should also be at 160 characters or less so it all appears on the search results.</li>
+</ul>
+<h2>Step Four: Check Your Content and Alt-Tags</h2>
+<p>Before we move on to the next URL in your list, there are a few more things to audit. Now that you’ve checked the off-page elements, it’s time to look at your on-page SEO. We’ll start with the content. Make sure your WordPress view is set to visual so you can see the page with all the formatting in place. It should like this:</p>
+<p><img class="aligncenter size-full wp-image-21540" alt="auditbp6" src="https://www.prestashop.com/blog/en/files/2016/04/auditbp6.jpg" width="521" height="542" /></p>
+<p>Now that you can easily see your content, start from the beginning and read through looking for these characteristics:</p>
+<ul style="padding-left: 30px">
+<li>It should be easy to skim or read.</li>
+<li>Check for spelling and grammatical errors</li>
+<li>Make sure <a href="https://ahrefs.com/blog/how-to-get-traffic-with-long-tail-keywords/" target="_blank">long-tail keywords are being used</a></li>
+<li>Eliminate any instances of keyword stuffing (no keyword should be used more than 5 times per page)</li>
+<li>Make sure everything is organized into headers, sub-headers, and bullet point lists.</li>
+</ul>
+<p>Crafting the perfect blog post involves taking steps like these to ensure your content is well written and organized. Now that your text is checked, it’s time to look at your Alt-tags. These are the descriptions used for your images. They are crucial for optimizing your images, so don’t neglect them. Select your images and click the edit button. This will pull up a screen that looks like this:</p>
+<p><img class="aligncenter size-full wp-image-21599" alt="auditbp7" src="https://www.prestashop.com/blog/en/files/2016/04/auditbp7.jpg" width="627" height="481" /></p>
+<p>Your alt-text should describe each image in detail while also using any long-tail keywords that are relevant to the image. This text is used by Google to understand and index your images since the spiders that crawl web pages can’t look at a picture and know what it means like we can.</p>
+<h2>Your First Page is Done, Keep Going!</h2>
+<p>Once these steps have been completed, mark all the relevant information in your spreadsheet and move on to the next page. By keeping everything organized and simple, you’ll have your audit finished in no time. These minor changes may not seem like much, but they can make a huge difference in your rankings.</p>
+<p>How do you audit your blog’s content? Share your own tactics and tips in the comments below!</p>
+<h2>About the Author</h2>
+<p>Matt Banner is the author of On Blast Blog, a website that teaches you how to start and grow a blog. You can follow him on Twitter <a href="https://twitter.com/blastyourblog" target="_blank">@blastyourblog</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/audit-blog-posts/">How to Audit Your Own Blog Posts</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/audit-blog-posts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
